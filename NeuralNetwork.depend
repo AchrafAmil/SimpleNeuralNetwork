@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1497649902 source:/home/neogineer/codeblocksWorkspace/NeuralNetwork/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
